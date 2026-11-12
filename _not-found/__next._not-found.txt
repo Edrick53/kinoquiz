@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[39756,["/kinoquiz/_next/static/chunks/1909ea95dc4491d9.js","/kinoquiz/_next/static/chunks/cf1950fd081fcb84.js","/kinoquiz/_next/static/chunks/2f236954d6a65e12.js"],"default"]
+3:I[37457,["/kinoquiz/_next/static/chunks/1909ea95dc4491d9.js","/kinoquiz/_next/static/chunks/cf1950fd081fcb84.js","/kinoquiz/_next/static/chunks/2f236954d6a65e12.js"],"default"]
+0:{"buildId":"939FZB7loixnhy33T4SFG","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
